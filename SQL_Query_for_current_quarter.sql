@@ -1,0 +1,1 @@
+﻿select quarter from s_calendar where date='2021-04-12' 
